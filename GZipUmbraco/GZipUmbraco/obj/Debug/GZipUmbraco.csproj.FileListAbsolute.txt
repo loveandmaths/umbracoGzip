@@ -1,0 +1,5 @@
+c:\users\ally.screenmedia\documents\visual studio 2012\Projects\GZipUmbraco\GZipUmbraco\bin\Debug\GZipUmbraco.dll
+c:\users\ally.screenmedia\documents\visual studio 2012\Projects\GZipUmbraco\GZipUmbraco\bin\Debug\GZipUmbraco.pdb
+c:\users\ally.screenmedia\documents\visual studio 2012\Projects\GZipUmbraco\GZipUmbraco\obj\Debug\GZipUmbraco.csprojResolveAssemblyReference.cache
+c:\users\ally.screenmedia\documents\visual studio 2012\Projects\GZipUmbraco\GZipUmbraco\obj\Debug\GZipUmbraco.dll
+c:\users\ally.screenmedia\documents\visual studio 2012\Projects\GZipUmbraco\GZipUmbraco\obj\Debug\GZipUmbraco.pdb
